@@ -1,7 +1,7 @@
-from core.data_loader import DataLoader
-from core.trend_analyzer import TrendAnalyzer
-from core.smc_analyzer import SMCAnalyzer
-from core.signal_engine import SignalEngine
+from matriz.data_loader import DataLoader
+from matriz.trend_analyzer import TrendAnalyzer
+from matriz.smc_analyzer import SMCAnalyzer
+from matriz.signal_engine import SignalEngine
 
 import MetaTrader5 as mt5
 
